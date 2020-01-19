@@ -28,6 +28,6 @@ Chromedriver要放在与本脚本同一个文件夹下
 - html5lib 
 - 备注：
 其中os、time及re为Python标准库无需另外安装，selenium、requests、pdfkit、BeautifulSoup、html5lib、pyinstaller可以用pip命令安装<br />
-如果对代码的逻辑不清楚的请查阅文章xxxx，如果仍有问题，请关注公众号「双城笔录」后留言
+如果对代码的逻辑不清楚的请查阅文章https://mp.weixin.qq.com/s/2BNrfPHKZ5yf5MVcov0qjw ，如果仍有问题，请关注公众号「双城笔录」后留言
 ### 开源许可：基于MIT协议
 
