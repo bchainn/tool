@@ -11,11 +11,11 @@ small tools by myself.
 ## 2.相关包下载地址
 - 谷歌浏览器下载地址：https://google.cn/intl/zh-CN/chrome/
 - Chromedriver下载地址：http://chromedriver.storage.googleapis.com/index.html
-- wkhtmltopdf下载地址：https://wkhtmltopdf.org/downloads.html <br />
-备注：
-- 其中谷歌浏览器、Chromedriver的版本要一致
-- 需要安装谷歌浏览器和wkhtmltopdf才能运行本条脚本，wkhtmltopdf要安装在默认目录下
-- Chromedriver要放在与本脚本同一个文件夹下.
+- wkhtmltopdf下载地址：https://wkhtmltopdf.org/downloads.html 
+- 备注：
+其中谷歌浏览器、Chromedriver的版本要一致<br />
+需要安装谷歌浏览器和wkhtmltopdf才能运行本条脚本，wkhtmltopdf要安装在默认目录下<br />
+Chromedriver要放在与本脚本同一个文件夹下
 
 ## 3.使用到的Python模块
 - selenium
@@ -25,9 +25,10 @@ small tools by myself.
 - pdfkit
 - re
 - BeautifulSoup
-- html5lib <br />
-备注：
-- 其中os、time及re为Python标准库无需另外安装，selenium、requests、pdfkit、BeautifulSoup、html5lib、pyinstaller可以用pip命令安装.
-- 如果对代码的逻辑不清楚的请查阅文章xxxx，如果仍有问题，请关注公众号「双城笔录」后留言<br />
-开源许可：基于MIT协议
+- html5lib 
+- 备注：
+其中os、time及re为Python标准库无需另外安装，selenium、requests、pdfkit、BeautifulSoup、html5lib、pyinstaller可以用pip命令安装<br />
+如果对代码的逻辑不清楚的请查阅文章xxxx，如果仍有问题，请关注公众号「双城笔录」后留言
+<br />
+## 开源许可：基于MIT协议
 
