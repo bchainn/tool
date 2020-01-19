@@ -12,7 +12,7 @@ small tools by myself.
 - 谷歌浏览器下载地址：https://google.cn/intl/zh-CN/chrome/
 - Chromedriver下载地址：http://chromedriver.storage.googleapis.com/index.html
 - wkhtmltopdf下载地址：https://wkhtmltopdf.org/downloads.html
-其中谷歌浏览器、Chromedriver的版本要一致。
+- 备注：其中谷歌浏览器、Chromedriver的版本要一致。<br />
 需要安装谷歌浏览器和wkhtmltopdf才能运行本条脚本，wkhtmltopdf要安装在默认目录下.
 Chromedriver要放在与本脚本同一个文件夹下.
 
